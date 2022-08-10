@@ -1,0 +1,16 @@
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.exe
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.deps.json
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.runtimeconfig.json
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.runtimeconfig.dev.json
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.dll
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\ref\DataStructuresDotNet.dll
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\bin\Debug\net5.0\DataStructuresDotNet.pdb
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.AssemblyInfoInputs.cache
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.AssemblyInfo.cs
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.dll
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\ref\DataStructuresDotNet.dll
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.pdb
+C:\Users\Rudy\source\repos\DataStructuresDotNet\DataStructuresDotNet\obj\Debug\net5.0\DataStructuresDotNet.genruntimeconfig.cache
